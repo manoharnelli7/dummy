@@ -1,1 +1,10 @@
 #include<stdio.h>
+main()
+{
+soryt()
+search();
+}
+sort()
+{}
+search()
+{}
